@@ -21,7 +21,7 @@ int solve(int sel, int n) // sel : 현재 고른 학생 수, n : 전체 학생 �
 			break;
 		}
 	}
-	for(int i = 0; i < n; i++) // a 학생 친구 찾기
+	for(int i = 0; i < n; i++) // 선택 안된 학생중 a 학생 친구 찾기
 	{
 		if(student[i] == 0 && mate[a][i] == 1)
 		{
