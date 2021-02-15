@@ -4,9 +4,11 @@
 
 <img src="img.png" width="300px" height="200px"></img>
 
-'''
+<pre>
+<code>
 int pow(int x, int y)
 {
 
 }
-'''
+</code>
+</pre>
