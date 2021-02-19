@@ -4,7 +4,8 @@ using namespace std;
 
 int fence[20005];
 
-int solve(int l, int r){
+int solve(int l, int r)
+{
 	int ret;
 	int mid, h, w;
 	int a, b;
@@ -18,13 +19,16 @@ int solve(int l, int r){
 	w = 1;
 	ret = h;
 	
-	while(l < a || b < r){
-		if(l < a && (b == r || fence[a - 1] >= fence[b + 1])){
+	while(l < a || b < r)
+	{
+		if(l < a && (b == r || fence[a - 1] >= fence[b + 1]))
+		{
 			h = min(h, fence[a - 1]);
 			a--;
 			w++;
 		}
-		else if(b < r && (l == a || fence[a - 1] <= fence[b + 1])){
+		else if(b < r && (l == a || fence[a - 1] <= fence[b + 1]))
+		{
 			h = min(h, fence[b + 1]);
 			b++;
 			w++;
@@ -36,11 +40,13 @@ int solve(int l, int r){
 	return ret;
 }
 
-int main(){
+int main()
+{
 	int c;
 	
 	scanf(" %d", &c);
-	while(c--){
+	while(c--)
+	{
 		int n;
 		
 		scanf(" %d", &n);
