@@ -10,7 +10,7 @@
 [[한눈에 보는 알고리즘](https://github.com/Eucha09/Algorithm/blob/main/dc/explain.md)]
 * [쿼드 트리 뒤집기](https://algospot.com/judge/problem/read/QUADTREE) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dc/quadtree.cpp))
 * [울타리 잘라내기](https://algospot.com/judge/problem/read/FENCE) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dc/fence.cpp))
-## 동적 계획법
+## 동적 계획법(
 * [와일드카드](https://algospot.com/judge/problem/read/WILDCARD) : (C++ 코드)
 * [합친 LIS](https://algospot.com/judge/problem/read/JLIS) : (C++ 코드)
 * [원주율 외우기](https://algospot.com/judge/problem/read/PI) : (C++ 코드)
