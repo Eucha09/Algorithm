@@ -5,13 +5,15 @@ using namespace std;
 string qt;
 int index;
 
-string solve(){
+string solve()
+{
 	string s[4];
 	
 	if(qt[index] != 'x')
 		return string(1, qt[index]);
 	
-	for(int i = 0; i < 4; i++){
+	for(int i = 0; i < 4; i++)
+	{
 		index++;
 		s[i] = solve();
 	}
@@ -19,11 +21,13 @@ string solve(){
 	return string("x") + s[2] + s[3] + s[0] + s[1];
 }
 
-int main(){
+int main()
+{
 	int c;
 	
 	scanf(" %d", &c);
-	while(c--){
+	while(c--)
+	{
 		string ret;
 		char input[1005];
 		index = 0;
