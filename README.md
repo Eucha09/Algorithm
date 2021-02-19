@@ -10,3 +10,11 @@
 [[한눈에 보는 알고리즘](https://github.com/Eucha09/Algorithm/blob/main/dc/explain.md)]
 * [쿼드 트리 뒤집기](https://algospot.com/judge/problem/read/QUADTREE) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dc/quadtree.cpp))
 * [울타리 잘라내기](https://algospot.com/judge/problem/read/FENCE) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dc/fence.cpp))
+## 동적 계획법
+* 와일드카드 : (C++ 코드)
+* 합친 LIS : (C++ 코드)
+* 원주율 외우기 : (C++ 코드)
+* Quantization : (C++ 코드)
+* 비대칭 타일링 : (C++ 코드)
+* 폴리오미노 : (C++ 코드)
+* 두니발 박사의 탈옥 : (C++ 코드)
