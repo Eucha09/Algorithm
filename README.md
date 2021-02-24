@@ -18,3 +18,5 @@
 * [비대칭 타일링](https://algospot.com/judge/problem/read/ASYMTILING) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dp/asymtiling.cpp))
 * [폴리오미노](https://algospot.com/judge/problem/read/POLY) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dp/poly.cpp))
 * [두니발 박사의 탈옥](https://algospot.com/judge/problem/read/NUMB3RS) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dp/numb3rs.cpp))
+## 그리디(Greedy)
+* [뒤집기](https://www.acmicpc.net/problem/1439) : ([C++ 코드]())
