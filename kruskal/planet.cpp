@@ -57,7 +57,7 @@ int main()
 	sort(vx.begin(), vx.end());
 	sort(vy.begin(), vy.end());
 	sort(vz.begin(), vz.end());
-  // 간선 만들기
+  	// 간선 만들기
 	for (int i = 0; i < n - 1; i++)
 		edges.push_back({ vx[i].second, vx[i + 1].second, vx[i + 1].first - vx[i].first });
 	for (int i = 0; i < n - 1; i++)
