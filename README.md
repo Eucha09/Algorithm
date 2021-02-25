@@ -20,3 +20,8 @@
 * [두니발 박사의 탈옥](https://algospot.com/judge/problem/read/NUMB3RS) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/dp/numb3rs.cpp))
 ## 그리디(Greedy)
 * [뒤집기](https://www.acmicpc.net/problem/1439) : ([C++ 코드](https://github.com/Eucha09/Algorithm/blob/main/greedy/flip.cpp))
+## DFS(Depth First Search)
+* [최종 순위](https://www.acmicpc.net/problem/3665) : ([C++ 코드]())
+## 크루스칼 알고리즘(Kruskal Algorithm)
+* [도시 분할 계획](https://www.acmicpc.net/problem/1647) : ([C++ 코드]())
+* [행성 터널](https://www.acmicpc.net/problem/2887) : ([C++ 코드]())
